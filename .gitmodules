@@ -1,0 +1,6 @@
+[submodule "timestamp"]
+	path = timestamp
+	url = git@github.com:Hosigus/timestamp.git
+[submodule "timestamp_cpp"]
+	path = timestamp_cpp
+	url = git@github.com:Hosigus/timestamp_cpp.git
